@@ -11,3 +11,5 @@ This project is to show, especially for beginners, what a basic CRUD looks like 
 - JPA + Hibernate
 - MySQL
 - Tomcat 10
+
+## References
